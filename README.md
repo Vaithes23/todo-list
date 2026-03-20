@@ -1,4 +1,4 @@
-# 📝 Laravel Todo App
+# Laravel Todo App
 
 A simple Todo List web application built with Laravel.
 
